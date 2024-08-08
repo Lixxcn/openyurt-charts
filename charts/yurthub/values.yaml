@@ -12,6 +12,6 @@ bootstrapFile: "/var/lib/yurthub/bootstrap-hub.conf"
 organizations: ""
 
 image:
-  registry: openyurt
+  registry: registry.cn-beijing.aliyuncs.com/lixxcn
   repository: yurthub
   tag: ""
